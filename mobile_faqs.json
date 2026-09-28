@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Why is my phone running slow?",
+    "answer": "Slow performance is usually caused by too many background apps, low storage space, or an outdated software version. Try clearing cache, closing unused apps, and updating to the latest software.",
+    "department": "Technical Support"
+  },
+  {
+    "question": "How do I update my phone's software?",
+    "answer": "Go to Settings > System > Software Update, then tap Check for Updates. If an update is available, tap Download and Install.",
+    "department": "Technical Support"
+  },
+  {
+    "question": "My phone camera is not working properly, what should I do?",
+    "answer": "Restart your phone first. If the issue continues, clear the camera app's cache from Settings > Apps, or contact a service center if the problem persists.",
+    "department": "Technical Support"
+  },
+  {
+    "question": "What is the warranty period for my phone?",
+    "answer": "All new phones come with a standard 12-month warranty from the date of purchase, covering manufacturing defects.",
+    "department": "Warranty & Repair"
+  },
+  {
+    "question": "How do I claim my phone's warranty?",
+    "answer": "Visit your nearest authorized service center with your phone and original purchase receipt. Our team will inspect the device and process your claim.",
+    "department": "Warranty & Repair"
+  },
+  {
+    "question": "Does warranty cover a cracked screen?",
+    "answer": "No, physical damage such as a cracked screen is not covered under standard warranty. Screen repairs are available at an additional cost through our service centers.",
+    "department": "Warranty & Repair"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, bank transfers, mobile wallets, and cash on delivery in select cities.",
+    "department": "Billing/Payment"
+  },
+  {
+    "question": "Can I buy a phone on installments?",
+    "answer": "Yes, installment plans are available through selected banks and partner services. Options and eligibility can be checked at checkout.",
+    "department": "Billing/Payment"
+  },
+  {
+    "question": "I was charged twice for my order, what should I do?",
+    "answer": "Please contact our billing support with your order ID and payment screenshot, and we will investigate and refund any duplicate charge within 5-7 business days.",
+    "department": "Billing/Payment"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3-5 business days within major cities, and 5-7 business days for other areas.",
+    "department": "Shipping/Delivery"
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, you will receive a tracking link via SMS and email. You can also track it from the Orders section in your account.",
+    "department": "Shipping/Delivery"
+  },
+  {
+    "question": "My order is delayed, who do I contact?",
+    "answer": "If your order is delayed beyond the estimated delivery date, please reach out to our shipping support with your order ID so we can look into it.",
+    "department": "Shipping/Delivery"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return a phone within 7 days of delivery if it is unused and in its original packaging with all accessories.",
+    "department": "Returns & Refunds"
+  },
+  {
+    "question": "How long does a refund take after a return?",
+    "answer": "Refunds are processed within 7-10 business days after the returned item passes inspection.",
+    "department": "Returns & Refunds"
+  },
+  {
+    "question": "Can I exchange my phone for a different model?",
+    "answer": "Yes, exchanges are allowed within 7 days of delivery, subject to price difference and product availability.",
+    "department": "Returns & Refunds"
+  },
+  {
+    "question": "What is the price of the latest model?",
+    "answer": "Pricing varies by storage and color variant. Please check the product page for the latest price and available options.",
+    "department": "Sales/Pre-Purchase"
+  },
+  {
+    "question": "Is this phone available in different colors?",
+    "answer": "Yes, most models are available in multiple color options, which you can view on the product page before ordering.",
+    "department": "Sales/Pre-Purchase"
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Tap Sign Up on the app or website, enter your name, email, and phone number, and verify with the OTP sent to you.",
+    "department": "General/Account"
+  },
+  {
+    "question": "I forgot my account password, how do I reset it?",
+    "answer": "Tap 'Forgot Password' on the login screen, enter your registered email, and follow the link sent to you to set a new password.",
+    "department": "General/Account"
+  }
+]
